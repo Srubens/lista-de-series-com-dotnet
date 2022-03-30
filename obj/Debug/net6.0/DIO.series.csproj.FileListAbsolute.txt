@@ -1,0 +1,15 @@
+C:\RUBENS\DIO\DOT-NET\DIO.series\bin\Debug\net6.0\DIO.series.exe
+C:\RUBENS\DIO\DOT-NET\DIO.series\bin\Debug\net6.0\DIO.series.deps.json
+C:\RUBENS\DIO\DOT-NET\DIO.series\bin\Debug\net6.0\DIO.series.runtimeconfig.json
+C:\RUBENS\DIO\DOT-NET\DIO.series\bin\Debug\net6.0\DIO.series.dll
+C:\RUBENS\DIO\DOT-NET\DIO.series\bin\Debug\net6.0\DIO.series.pdb
+C:\RUBENS\DIO\DOT-NET\DIO.series\obj\Debug\net6.0\DIO.series.csproj.AssemblyReference.cache
+C:\RUBENS\DIO\DOT-NET\DIO.series\obj\Debug\net6.0\DIO.series.GeneratedMSBuildEditorConfig.editorconfig
+C:\RUBENS\DIO\DOT-NET\DIO.series\obj\Debug\net6.0\DIO.series.AssemblyInfoInputs.cache
+C:\RUBENS\DIO\DOT-NET\DIO.series\obj\Debug\net6.0\DIO.series.AssemblyInfo.cs
+C:\RUBENS\DIO\DOT-NET\DIO.series\obj\Debug\net6.0\DIO.series.csproj.CoreCompileInputs.cache
+C:\RUBENS\DIO\DOT-NET\DIO.series\obj\Debug\net6.0\DIO.series.dll
+C:\RUBENS\DIO\DOT-NET\DIO.series\obj\Debug\net6.0\refint\DIO.series.dll
+C:\RUBENS\DIO\DOT-NET\DIO.series\obj\Debug\net6.0\DIO.series.pdb
+C:\RUBENS\DIO\DOT-NET\DIO.series\obj\Debug\net6.0\DIO.series.genruntimeconfig.cache
+C:\RUBENS\DIO\DOT-NET\DIO.series\obj\Debug\net6.0\ref\DIO.series.dll

@@ -1,0 +1,1 @@
+# lista de series com dotnet
